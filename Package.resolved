@@ -1,0 +1,24 @@
+{
+  "originHash" : "84d422e5cca65dd09fb539b05f3edee5fd985581d02d0fe3c2bab21dfeab2234",
+  "pins" : [
+    {
+      "identity" : "hguicomponents",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hugo-Coutinho/HGUIComponents.git",
+      "state" : {
+        "revision" : "64688a732f42745732c94e6406fc6621edea9a6f",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "network-layer-framework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Hugo-Coutinho/Network-Layer-Framework",
+      "state" : {
+        "revision" : "a1bafbb2c955db418ab25cc1fe4fd21f6037ca25",
+        "version" : "1.0.5"
+      }
+    }
+  ],
+  "version" : 3
+}
